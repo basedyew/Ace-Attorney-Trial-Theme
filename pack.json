@@ -1,0 +1,10 @@
+{
+  "name": "Trial (2001)",
+  "description": "A pack that changes the Steam Deck's main menu music to Trial 2001 from Phoenix Wright: Ace Attorney. Owned by Capcom Co., Ltd.",
+  "author": "basedyew",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
